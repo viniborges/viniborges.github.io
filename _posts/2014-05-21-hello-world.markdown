@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Hello world 2
 layout: post
 tags: [git github ]
